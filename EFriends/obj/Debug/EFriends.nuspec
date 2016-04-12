@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>EFriends</id>
+    <version>1.0.0</version>
+    <title>EFriends</title>
+    <authors>vitalsofttechnology</authors>
+    <owners>vitalsofttechnology</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>EFriends</description>
+    <summary>EFriends</summary>
+    <copyright>Copyright © vitalsofttechnology</copyright>
+    <tags>EFriends</tags>
+  </metadata>
+  <files>
+    <file src="E:\Usman Rafiq\EFRIENDS\EFLibrary\bin\Debug\EFLibrary.dll" target="lib\net45\EFLibrary.dll" exclude="" />
+    <file src="E:\Usman Rafiq\EFRIENDS\EFLibrary\bin\Debug\EFLibrary.pdb" target="lib\net45\EFLibrary.pdb" exclude="" />
+    <file src="E:\Usman Rafiq\EFRIENDS\EFriends\Readme.txt" target="" exclude="" />
+  </files>
+</package>

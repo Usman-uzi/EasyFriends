@@ -1,0 +1,5 @@
+E:\Usman Rafiq\EFRIENDS\EFLibrary\bin\Debug\EFLibrary.dll
+E:\Usman Rafiq\EFRIENDS\EFLibrary\bin\Debug\EFLibrary.pdb
+E:\Usman Rafiq\EFRIENDS\EFLibrary\obj\Debug\EFLibrary.csprojResolveAssemblyReference.cache
+E:\Usman Rafiq\EFRIENDS\EFLibrary\obj\Debug\EFLibrary.dll
+E:\Usman Rafiq\EFRIENDS\EFLibrary\obj\Debug\EFLibrary.pdb

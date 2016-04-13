@@ -12,7 +12,6 @@ namespace EFLibrary.String
         {
             const string allowedChars = "ABCDEFGHJKLMNOPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz0123456789";
             char[] chars = new char[stringLength];
-
             for (int i = 0; i < stringLength; i++)
             {
                 chars[i] = allowedChars[rd.Next(0, allowedChars.Length)];
